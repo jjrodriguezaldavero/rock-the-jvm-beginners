@@ -1,4 +1,4 @@
-**Udemy: Rock the JVM**
+**Udemy: Rock the JVM (beginners)**
 
 *Juan José Rodríguez Aldavero*
 
